@@ -20,3 +20,28 @@
 - Tree Shaking
 
 # read parcel.org 
+
+
+const parent = React.createElement(
+//     'div',
+//     {id: "parent"},
+//     React.createElement(
+//         'div',
+//         {id: "child"},
+//         [React.createElement(
+//             'h1',
+//             {},
+//             "i am h1 tag"
+//         ),
+//         React.createElement(
+//             'h2',
+//             {},
+//             "i am h1 tag"
+//         )]
+//     )
+// );
+
+
+# there are two type of componant
+- class based componant - old
+- functional componant - new
