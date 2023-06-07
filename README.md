@@ -43,5 +43,8 @@ const parent = React.createElement(
 
 
 # there are two type of componant
-- class based componant - old
-- functional componant - new
+- class based componant - old way of writing code
+- functional componant - new way
+
+
+# jsx => Babel transpiles it to react.createElement => ReactElement - js object => HTML Element(render)
