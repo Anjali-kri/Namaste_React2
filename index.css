@@ -45,3 +45,8 @@
 .res-logo {
     width: 100%;
 }
+
+.filter_btn {
+    margin: 10px;
+    cursor: pointer;
+}

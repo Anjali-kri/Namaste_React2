@@ -48,3 +48,44 @@ const parent = React.createElement(
 
 
 # jsx => Babel transpiles it to react.createElement => ReactElement - js object => HTML Element(render)
+
+# food ordering app
+- namaste food
+
+/** 
+ * Header
+ * -logo
+ * -nav items
+ * Body
+ * -search
+ * -restaurrantContainer
+ *  - RestaurantCrds
+ *    -img
+ *    - name of res, star rating, couisines, delevery time stc
+ * Footer
+ * -CopyRight
+ * - Links
+ * -Address
+ * -Contact
+*/
+
+
+# There are two types of export and import
+- default export/import
+
+export default Componant;
+import Componant from "path";
+
+- named export/import
+
+export const Componant;
+import {Componant} from "path";
+
+# React Hooks
+- Its normal javascript utility function function
+- useState()
+- useEffect()
+- its create local state varialble
+- whenever a state variable updates react will rerender the componant.
+
+
