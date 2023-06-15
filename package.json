@@ -2,10 +2,10 @@
   "name": "see2ndnamstereact",
   "version": "1.0.0",
   "description": "this is namaste react start learning",
-    "scripts": {
-      "start": "parcel index.html",
-      "build": "parcel build index.html",
-      "test": "jest"
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
   },
   "keywords": [
     "react"
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.13.0"
   }
-
 }

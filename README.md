@@ -87,5 +87,16 @@ import {Componant} from "path";
 - useEffect()
 - its create local state varialble
 - whenever a state variable updates react will rerender the componant.
+- 
+- useEffect is also a react hook, its a normal function just like a function. It have two argument
+- callback function
+- dependency array
+
+# useEffect Hook
+- useEffect(() => {}, []);
+- two argument in useEffect
+- after body componant render useEffect callback function is called.
+
+# Whenever state variable update, react triggers a reconciliation cycle(re-render the componant)
 
 
